@@ -4,7 +4,7 @@
 	<title> welcome to HTML ^.^ </title>
 </head>
 <body>
-Chào mừng bạn đến với ngôn ngữ thiết kế web HTML(hypertext makup language)
+mình tên là Nam xin chào các bạn
 </body>
 </html>
 
